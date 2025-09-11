@@ -41,6 +41,9 @@ You can run the pipeline step-by-step in a Jupyter notebook (see `run.ipynb` or 
 ## Output
 The main output is `export/exported_members.csv`, listing member IDs and churn risk scores for high-risk, live members.
 
+## Comments
+Notebooks are used for simplicity of the home assignment, it's easy to see step-by=step-run.
+Also, for deployment I would have used a yml settings file.
 
 ## Requirements
 
